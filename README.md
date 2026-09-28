@@ -8,7 +8,8 @@ I'M XEANNIE
 
 <!-- ✨ MOVING TYPING TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=2500&pause=900&color=9B59B6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Meraflor+%F0%9F%92%9C;Welcome+to+my+GitHub!+%E2%9C%A8;IT+Student+%F0%9F%92%BB;Learning+%E2%80%A2+Coding+%E2%80%A2+Creating;Turning+Ideas+Into+Code+%F0%9F%92%9C"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=2500&pause=900&color=9B59B6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shinavility
+    +%F0%9F%92%9C;Welcome+to+my+GitHub!+%E2%9C%A8;IT+Student+%F0%9F%92%BB;Learning+%E2%80%A2+Coding+%E2%80%A2+Creating;Turning+Ideas+Into+Code+%F0%9F%92%9C"/>
 </p>
 
 ---
